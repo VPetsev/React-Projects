@@ -4,4 +4,4 @@ Wordsmith is an application built with vanilla JS which can return the user simi
 
 ## Purpose
 
-An exercise project built with vanilla JavaScript to practice accessing api scripts and processing the data. 
+An exercise project built with vanilla JavaScript to practice accessing api scripts with GET requests through fetch and processing the data. 
